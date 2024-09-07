@@ -1,0 +1,19 @@
+.why-choose-lm-group {
+    /* Your styling for the overall section */
+    text-align: center;
+    padding: 40px;
+  }
+  
+  .reasons {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .reason-card {
+    /* Your styling for each reason card */
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 10px;
+    width: 300px;
+  }

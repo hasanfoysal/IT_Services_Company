@@ -1,0 +1,19 @@
+.team-members {
+    /* Your styling for the overall section */
+    text-align: center;
+    padding: 40px;
+  }
+  
+  .team-cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .team-card {
+    /* Your styling for each team card */
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 10px;
+    width: 300px;
+  }
