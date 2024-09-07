@@ -11,6 +11,7 @@ import Services from './Components/Services/Services';
 import Ceo from './Components/Ceo/Ceo';
 import WhyChooseLMGroup from './Components/WhyChooseLMGroup/WhyChooseLMGroup';
 import TeamMembers from './Components/TeamMembers/TeamMembers';
+import Contact from './Components/Contact/Contact';
 const router = createBrowserRouter([
   {
     path: "/",
@@ -35,6 +36,10 @@ const router = createBrowserRouter([
       {
         path: '/team',
         element:<TeamMembers></TeamMembers>
+      },
+      {
+        path: '/contact',
+        element: <Contact></Contact>
       }
     ]
   },

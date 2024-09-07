@@ -1,4 +1,5 @@
 import Ceo from "../../Ceo/Ceo";
+import Contact from "../../Contact/Contact";
 import Services from "../../Services/Services";
 import TeamMembers from "../../TeamMembers/TeamMembers";
 import WhyChooseLMGroup from "../../WhyChooseLMGroup/WhyChooseLMGroup";
@@ -12,6 +13,7 @@ const Home = () => {
             <Ceo></Ceo>
             <WhyChooseLMGroup></WhyChooseLMGroup>
             <TeamMembers></TeamMembers>
+            <Contact></Contact>
         </div>
     );
 };
