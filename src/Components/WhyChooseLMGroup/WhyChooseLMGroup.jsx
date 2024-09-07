@@ -30,7 +30,7 @@ function WhyChooseLMGroup() {
   ];
 
   return (
-    <section className="why-choose-lm-group my-8">
+    <section className="why-choose-lm-group sm:bg-white my-8">
       <h2 className='lg:text-3xl  btn btn-outline border-0 border-b-4 shadow-md my-3  shadow-black'>Why Choose LM GROUP?</h2>
       <div className="reasons">
         {reasons.map((reason, index) => (

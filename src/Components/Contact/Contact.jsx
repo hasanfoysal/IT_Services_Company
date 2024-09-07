@@ -2,7 +2,7 @@ import Lottie from 'lottie-react';
 import lottie from '../../../public/xfOgef2BEy.json'
 const Contact = () => {
     return (
-        <div>
+        <div className='sm:bg-white'>
              <h1 className="text-center text-black font-bold my-4  ml-[70px] md:ml-[200px] lg:ml-[700px] justify-center text-3xl btn btn-outline border-0 border-b-4 shadow-md   shadow-black mt-24">Contact Us</h1>
              <div>
              <div className="hero">

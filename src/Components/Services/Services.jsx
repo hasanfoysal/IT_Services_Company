@@ -7,8 +7,8 @@ import img6 from '../../assets/img6.jpg'
 
 const Services = () => {
     return (
-        <div className="lg:max-w-[1400px] mx-auto my-9">
-            <h1 className="text-center text-black font-bold  ml-[70px] md:ml-[200px] lg:ml-[600px] justify-center text-3xl btn btn-outline border-0 border-b-4 shadow-md   shadow-black mt-24">Our Services</h1>
+        <div className="lg:max-w-[1400px] sm:bg-white mx-auto my-9">
+            <h1 className="text-center text-black font-bold  ml-[70px] md:ml-[200px] lg:ml-[600px] justify-center text-3xl btn btn-outline border-0 border-b-4 shadow-md  shadow-black mt-24">Our Services</h1>
             <p className="text-center mx-10 font-semibold mt-4">At [LM GROUP ] we are committed to providing modern, efficient and world-class services to your business. Our skilled developer team develops secure and scalable software solutions on various technology platforms,
  Which makes your business operations more efficient and improved. Our programmers ensure high quality in every line of code.
 which provides maximum performance and security to your technical solution. The Engineer team solves the technical complexities very efficiently and ensures the stability and functionality of your system.</p>
